@@ -2,8 +2,6 @@
 
 #### Cum poți contribui?
 
-ș, ț, î, ă, â
-
 1. Creează-ți cont pe GitHub [aici](https://github.com/join)
 2. Vizitează https://github.com/milld/resursefacultate/edit/master/README.md
 3. Adaugă linkurile / resursele pe care le-ai găsit în categoria unde se potrivesc
