@@ -2,13 +2,13 @@
 
 #### De ce?
 
-O multime de informatii folositoare sunt postate pe Facebook, dar e usor sa le pierzi urma.
+O mulțime de informații folositoare sunt postate pe Facebook, dar este ușor să le pierzi urma
 
 #### Cum poți contribui?
 
 1. Creează-ți cont pe GitHub [aici](https://github.com/join)
 2. Vizitează https://github.com/milld/resursefacultate/edit/master/README.md
-3. Adaugă linkurile / resursele pe care le-ai găsit în categoria unde se potrivesc
+3. Adaugă linkurile / resursele pe care le-ai găsit în categoria unde se potrivesc. Format propunere: `[[FORMAT] Nume](link)`
 4. Apasă jos pe `Propose file change`
 5. Se deschide o pagină nouă, apasă pe `Create pull request`
 6. Dacă propunerea este bună, aceasta va fi acceptată
