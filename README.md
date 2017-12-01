@@ -1,5 +1,9 @@
 # Resurse de invățat pentru facultate
 
+#### De ce?
+
+O multime de informatii folositoare sunt postate pe Facebook, dar e usor sa le pierzi urma.
+
 #### Cum poți contribui?
 
 1. Creează-ți cont pe GitHub [aici](https://github.com/join)
@@ -10,6 +14,14 @@
 6. Dacă propunerea este bună, aceasta va fi acceptată
 
 # Facultatea de Informatica Iași
+
+## Anul 1
+
+### Semestrul I
+
+#### SD
+
+[[VIDEO] Quick Sort](https://www.youtube.com/watch?v=COk73cpQbFQ)
 
 ## Anul 3
 
