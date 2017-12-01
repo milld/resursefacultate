@@ -1,12 +1,17 @@
-# Resurse de invatat pentru faculate
+# Resurse de invățat pentru facultate
 
-#### Cum poti contribui?
+#### Cum poți contribui?
 
-1. ...
-2. ...
-3. ...
+ș, ț, î, ă, â
 
-# Facultatea de Informatica Iasi
+1. Creează-ți cont pe GitHub [aici](https://github.com/join)
+2. Vizitează https://github.com/milld/resursefacultate/edit/master/README.md
+3. Adaugă linkurile / resursele pe care le-ai găsit în categoria unde se potrivesc
+4. Apasă jos pe `Propose file change`
+5. Se deschide o pagină nouă, apasă pe `Create pull request`
+6. Dacă propunerea este bună, aceasta va fi acceptată
+
+# Facultatea de Informatica Iași
 
 ## Anul 3
 
